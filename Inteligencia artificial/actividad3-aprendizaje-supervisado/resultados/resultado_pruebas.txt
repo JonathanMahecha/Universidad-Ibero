@@ -1,0 +1,15 @@
+collecting ... collected 11 items
+
+tests/test_proyecto.py::test_base_conocimiento_tiene_11_estaciones PASSED [  9%]
+tests/test_proyecto.py::test_ruta_existente PASSED                       [ 18%]
+tests/test_proyecto.py::test_ruta_estacion_inexistente PASSED            [ 27%]
+tests/test_proyecto.py::test_reglas_transbordo PASSED                    [ 36%]
+tests/test_proyecto.py::test_franja_horaria PASSED                       [ 45%]
+tests/test_proyecto.py::test_dataset_reproducible PASSED                 [ 54%]
+tests/test_proyecto.py::test_limpieza_sin_nulos_ni_duplicados PASSED     [ 63%]
+tests/test_proyecto.py::test_etiquetas_validas PASSED                    [ 72%]
+tests/test_proyecto.py::test_sin_fuga_de_informacion PASSED              [ 81%]
+tests/test_proyecto.py::test_modelo_supera_linea_base PASSED             [ 90%]
+tests/test_proyecto.py::test_prediccion_ruta_hora_pico_vs_noche PASSED   [100%]
+
+============================== 11 passed in 2.19s ==============================
