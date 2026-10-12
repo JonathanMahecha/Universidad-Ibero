@@ -1,0 +1,199 @@
+estacion,hora,ocupacion_habil,variabilidad,ocupacion_p90,buses_promedio,ocupacion_finde,efecto_lluvia,tipo_estacion,zona,linea_principal,franja_horaria,grupo,grupo_jerarquico,perfil
+Calle 100,5,21.89,5.75,29.86,25.1,15.15,-0.87,Intermedia,Norte,Línea A,Baja demanda,1,2,Demanda baja
+Calle 100,6,66.23,13.82,80.16,57.41,32.86,2.95,Intermedia,Norte,Línea A,Pico AM,3,0,Demanda alta
+Calle 100,7,61.71,9.71,69.24,59.72,30.08,6.26,Intermedia,Norte,Línea A,Pico AM,3,0,Demanda alta
+Calle 100,8,66.24,11.4,78.32,57.9,31.28,2.7,Intermedia,Norte,Línea A,Pico AM,3,0,Demanda alta
+Calle 100,9,37.84,6.67,43.72,40.23,21.04,5.79,Intermedia,Norte,Línea A,Valle,2,1,Demanda moderada
+Calle 100,10,38.21,7.18,47.28,39.54,22.34,1.23,Intermedia,Norte,Línea A,Valle,1,1,Demanda baja
+Calle 100,11,37.39,5.74,45.78,40.36,18.2,1.53,Intermedia,Norte,Línea A,Valle,1,1,Demanda baja
+Calle 100,12,37.31,9.95,46.02,39.28,20.56,6.9,Intermedia,Norte,Línea A,Valle,2,1,Demanda moderada
+Calle 100,13,37.49,8.57,48.14,40.0,18.78,6.46,Intermedia,Norte,Línea A,Valle,2,1,Demanda moderada
+Calle 100,14,37.59,9.71,48.94,39.67,21.81,5.2,Intermedia,Norte,Línea A,Valle,2,1,Demanda moderada
+Calle 100,15,39.06,8.37,47.52,39.44,18.35,3.75,Intermedia,Norte,Línea A,Valle,2,1,Demanda moderada
+Calle 100,16,36.76,6.72,45.74,40.13,16.51,3.12,Intermedia,Norte,Línea A,Valle,1,1,Demanda baja
+Calle 100,17,58.98,6.74,69.16,60.31,35.77,2.26,Intermedia,Norte,Línea A,Pico PM,3,0,Demanda alta
+Calle 100,18,57.95,10.95,68.74,59.31,32.82,6.21,Intermedia,Norte,Línea A,Pico PM,3,0,Demanda alta
+Calle 100,19,60.44,9.54,69.82,59.67,31.01,3.63,Intermedia,Norte,Línea A,Pico PM,3,0,Demanda alta
+Calle 100,20,22.78,8.03,32.64,24.62,10.86,4.81,Intermedia,Norte,Línea A,Baja demanda,1,2,Demanda baja
+Calle 100,21,23.0,7.15,29.94,24.69,12.59,1.92,Intermedia,Norte,Línea A,Baja demanda,1,2,Demanda baja
+Calle 100,22,21.87,7.37,32.12,24.85,11.8,1.17,Intermedia,Norte,Línea A,Baja demanda,1,2,Demanda baja
+Calle 45,5,25.94,7.08,34.36,24.79,10.62,5.37,Intercambio,Chapinero,Línea A,Baja demanda,1,2,Demanda baja
+Calle 45,6,74.35,11.62,80.26,58.23,36.56,10.15,Intercambio,Chapinero,Línea A,Pico AM,3,0,Demanda alta
+Calle 45,7,73.55,7.32,81.32,59.92,40.56,7.85,Intercambio,Chapinero,Línea A,Pico AM,3,0,Demanda alta
+Calle 45,8,75.77,12.02,84.54,59.05,41.15,5.21,Intercambio,Chapinero,Línea A,Pico AM,3,0,Demanda alta
+Calle 45,9,45.15,9.62,57.62,39.44,24.07,1.92,Intercambio,Chapinero,Línea A,Valle,2,1,Demanda moderada
+Calle 45,10,47.76,10.24,62.4,40.03,24.86,6.67,Intercambio,Chapinero,Línea A,Valle,2,1,Demanda moderada
+Calle 45,11,47.36,11.04,64.74,38.95,22.94,5.84,Intercambio,Chapinero,Línea A,Valle,2,1,Demanda moderada
+Calle 45,12,47.35,11.13,61.14,38.67,22.52,8.4,Intercambio,Chapinero,Línea A,Valle,2,1,Demanda moderada
+Calle 45,13,42.36,6.92,51.08,40.03,23.89,2.14,Intercambio,Chapinero,Línea A,Valle,2,1,Demanda moderada
+Calle 45,14,44.33,6.51,52.2,39.97,21.55,4.34,Intercambio,Chapinero,Línea A,Valle,2,1,Demanda moderada
+Calle 45,15,45.61,10.3,56.76,40.05,23.7,8.53,Intercambio,Chapinero,Línea A,Valle,2,1,Demanda moderada
+Calle 45,16,47.26,11.98,62.96,38.41,23.69,5.34,Intercambio,Chapinero,Línea A,Valle,2,1,Demanda moderada
+Calle 45,17,72.33,10.72,84.9,60.0,42.36,9.13,Intercambio,Chapinero,Línea A,Pico PM,3,0,Demanda alta
+Calle 45,18,72.72,10.09,83.74,59.51,42.95,-0.09,Intercambio,Chapinero,Línea A,Pico PM,3,0,Demanda alta
+Calle 45,19,75.25,11.37,91.28,59.87,37.86,4.4,Intercambio,Chapinero,Línea A,Pico PM,3,0,Demanda alta
+Calle 45,20,27.8,10.26,38.8,24.59,15.08,4.91,Intercambio,Chapinero,Línea A,Baja demanda,1,2,Demanda baja
+Calle 45,21,29.28,8.34,39.82,25.1,16.7,2.1,Intercambio,Chapinero,Línea A,Baja demanda,1,2,Demanda baja
+Calle 45,22,26.27,9.06,40.02,24.62,14.94,3.96,Intercambio,Chapinero,Línea A,Baja demanda,1,2,Demanda baja
+Calle 72,5,28.99,8.99,39.2,24.18,14.45,5.94,Intercambio,Chapinero,Línea A,Baja demanda,1,2,Demanda baja
+Calle 72,6,84.31,21.16,113.18,56.95,39.71,21.08,Intercambio,Chapinero,Línea A,Pico AM,0,3,Pico crítico
+Calle 72,7,82.14,14.28,94.26,58.26,41.28,7.27,Intercambio,Chapinero,Línea A,Pico AM,3,0,Demanda alta
+Calle 72,8,81.81,17.4,112.1,57.15,41.42,3.6,Intercambio,Chapinero,Línea A,Pico AM,0,0,Pico crítico
+Calle 72,9,45.75,7.55,55.14,39.59,24.31,5.38,Intercambio,Chapinero,Línea A,Valle,2,1,Demanda moderada
+Calle 72,10,48.18,12.22,60.7,39.33,25.49,10.2,Intercambio,Chapinero,Línea A,Valle,2,1,Demanda moderada
+Calle 72,11,46.83,9.3,55.7,39.15,28.82,6.78,Intercambio,Chapinero,Línea A,Valle,2,1,Demanda moderada
+Calle 72,12,48.72,9.06,60.06,39.56,27.42,5.8,Intercambio,Chapinero,Línea A,Valle,2,1,Demanda moderada
+Calle 72,13,44.52,8.14,57.84,40.77,25.55,2.74,Intercambio,Chapinero,Línea A,Valle,2,1,Demanda moderada
+Calle 72,14,48.65,11.17,56.74,38.72,26.24,1.18,Intercambio,Chapinero,Línea A,Valle,2,1,Demanda moderada
+Calle 72,15,49.97,12.31,59.3,39.15,29.02,15.37,Intercambio,Chapinero,Línea A,Valle,2,1,Demanda moderada
+Calle 72,16,46.53,8.73,57.44,40.13,23.58,7.7,Intercambio,Chapinero,Línea A,Valle,2,1,Demanda moderada
+Calle 72,17,75.7,14.38,90.1,59.26,40.99,8.18,Intercambio,Chapinero,Línea A,Pico PM,3,0,Demanda alta
+Calle 72,18,79.21,16.99,88.28,58.95,37.18,2.2,Intercambio,Chapinero,Línea A,Pico PM,3,0,Demanda alta
+Calle 72,19,74.25,7.35,83.82,60.77,40.47,3.23,Intercambio,Chapinero,Línea A,Pico PM,3,0,Demanda alta
+Calle 72,20,30.13,8.41,39.96,25.13,14.86,2.17,Intercambio,Chapinero,Línea A,Baja demanda,1,2,Demanda baja
+Calle 72,21,27.28,7.97,38.64,24.67,17.11,-2.89,Intercambio,Chapinero,Línea A,Baja demanda,1,2,Demanda baja
+Calle 72,22,26.67,7.51,36.48,24.85,13.92,2.58,Intercambio,Chapinero,Línea A,Baja demanda,1,2,Demanda baja
+Centro,5,29.33,9.11,41.56,24.74,19.26,0.36,Intercambio,Centro,Línea B,Baja demanda,1,2,Demanda baja
+Centro,6,89.59,8.36,100.36,59.69,51.7,10.4,Intercambio,Centro,Línea B,Pico AM,3,0,Demanda alta
+Centro,7,85.83,7.79,94.96,60.18,45.26,6.3,Intercambio,Centro,Línea B,Pico AM,3,0,Demanda alta
+Centro,8,87.89,9.0,99.08,60.08,47.12,8.93,Intercambio,Centro,Línea B,Pico AM,3,0,Demanda alta
+Centro,9,54.77,8.01,65.12,39.54,27.46,7.49,Intercambio,Centro,Línea B,Valle,2,1,Demanda moderada
+Centro,10,55.04,14.26,67.76,38.54,33.56,8.96,Intercambio,Centro,Línea B,Valle,2,1,Demanda moderada
+Centro,11,53.59,11.24,65.8,38.59,28.99,3.23,Intercambio,Centro,Línea B,Valle,2,1,Demanda moderada
+Centro,12,55.72,14.45,65.5,38.28,29.62,9.6,Intercambio,Centro,Línea B,Valle,2,1,Demanda moderada
+Centro,13,53.06,6.87,61.74,39.74,30.55,6.97,Intercambio,Centro,Línea B,Valle,2,1,Demanda moderada
+Centro,14,52.27,7.77,60.86,39.51,26.79,6.15,Intercambio,Centro,Línea B,Valle,2,1,Demanda moderada
+Centro,15,53.48,11.24,64.94,39.92,29.06,7.02,Intercambio,Centro,Línea B,Valle,2,1,Demanda moderada
+Centro,16,56.36,11.5,68.04,38.95,28.44,12.98,Intercambio,Centro,Línea B,Valle,2,1,Demanda moderada
+Centro,17,100.42,15.33,112.1,58.92,51.1,15.2,Intercambio,Centro,Línea B,Pico PM,0,0,Pico crítico
+Centro,18,97.58,11.93,111.0,59.54,53.75,18.25,Intercambio,Centro,Línea B,Pico PM,0,0,Pico crítico
+Centro,19,104.49,26.94,120.0,56.82,52.06,-0.64,Intercambio,Centro,Línea B,Pico PM,0,3,Pico crítico
+Centro,20,31.22,8.33,38.2,24.36,18.96,5.55,Intercambio,Centro,Línea B,Baja demanda,1,2,Demanda baja
+Centro,21,29.31,6.92,39.34,25.28,15.79,2.0,Intercambio,Centro,Línea B,Baja demanda,1,2,Demanda baja
+Centro,22,30.81,9.31,41.4,24.74,18.35,7.31,Intercambio,Centro,Línea B,Baja demanda,1,2,Demanda baja
+Héroes,5,23.07,8.77,32.94,25.59,16.1,1.38,Intermedia,Chapinero,Línea C,Baja demanda,1,2,Demanda baja
+Héroes,6,68.24,12.72,78.46,58.85,37.54,1.02,Intermedia,Chapinero,Línea C,Pico AM,3,0,Demanda alta
+Héroes,7,69.04,13.36,79.2,59.59,34.65,15.59,Intermedia,Chapinero,Línea C,Pico AM,3,0,Demanda alta
+Héroes,8,68.67,12.13,78.92,58.69,35.6,5.75,Intermedia,Chapinero,Línea C,Pico AM,3,0,Demanda alta
+Héroes,9,43.79,12.68,54.6,38.97,20.72,5.71,Intermedia,Chapinero,Línea C,Valle,2,1,Demanda moderada
+Héroes,10,41.29,10.06,54.8,39.77,21.43,3.29,Intermedia,Chapinero,Línea C,Valle,2,1,Demanda moderada
+Héroes,11,42.65,8.54,48.5,38.95,18.98,0.78,Intermedia,Chapinero,Línea C,Valle,2,1,Demanda moderada
+Héroes,12,40.95,7.24,50.42,39.97,21.42,1.81,Intermedia,Chapinero,Línea C,Valle,2,1,Demanda moderada
+Héroes,13,38.79,7.66,48.36,40.38,20.41,4.84,Intermedia,Chapinero,Línea C,Valle,2,1,Demanda moderada
+Héroes,14,41.2,10.79,54.4,38.69,22.03,7.61,Intermedia,Chapinero,Línea C,Valle,2,1,Demanda moderada
+Héroes,15,43.78,11.53,58.58,39.1,22.0,4.77,Intermedia,Chapinero,Línea C,Valle,2,1,Demanda moderada
+Héroes,16,41.64,7.01,49.64,39.85,24.71,0.56,Intermedia,Chapinero,Línea C,Valle,2,1,Demanda moderada
+Héroes,17,62.2,7.52,71.48,60.44,35.84,4.21,Intermedia,Chapinero,Línea C,Pico PM,3,0,Demanda alta
+Héroes,18,67.27,16.99,78.26,58.85,35.52,14.81,Intermedia,Chapinero,Línea C,Pico PM,0,0,Pico crítico
+Héroes,19,68.2,15.12,80.12,58.33,36.18,4.81,Intermedia,Chapinero,Línea C,Pico PM,3,0,Demanda alta
+Héroes,20,22.42,8.62,33.36,24.79,17.48,1.21,Intermedia,Chapinero,Línea C,Baja demanda,1,2,Demanda baja
+Héroes,21,22.81,8.43,32.22,24.69,12.88,4.32,Intermedia,Chapinero,Línea C,Baja demanda,1,2,Demanda baja
+Héroes,22,24.1,8.07,33.32,25.38,11.09,1.39,Intermedia,Chapinero,Línea C,Baja demanda,1,2,Demanda baja
+Las Aguas,5,20.11,7.11,31.56,25.05,8.79,1.41,Intermedia,Centro,Línea B,Baja demanda,1,2,Demanda baja
+Las Aguas,6,58.83,11.16,64.72,59.62,29.82,11.15,Intermedia,Centro,Línea B,Pico AM,3,0,Demanda alta
+Las Aguas,7,55.74,6.78,64.72,59.87,32.88,7.69,Intermedia,Centro,Línea B,Pico AM,3,0,Demanda alta
+Las Aguas,8,58.77,11.36,67.04,58.69,30.57,3.74,Intermedia,Centro,Línea B,Pico AM,3,0,Demanda alta
+Las Aguas,9,35.76,10.53,44.66,39.21,18.25,10.88,Intermedia,Centro,Línea B,Valle,2,1,Demanda moderada
+Las Aguas,10,36.38,8.52,43.66,38.92,19.63,0.21,Intermedia,Centro,Línea B,Valle,1,1,Demanda baja
+Las Aguas,11,34.19,7.31,43.2,39.62,14.85,5.81,Intermedia,Centro,Línea B,Valle,1,1,Demanda baja
+Las Aguas,12,35.24,7.88,44.68,39.51,18.79,2.31,Intermedia,Centro,Línea B,Valle,1,1,Demanda baja
+Las Aguas,13,33.59,8.14,43.12,40.18,17.95,7.96,Intermedia,Centro,Línea B,Valle,2,1,Demanda moderada
+Las Aguas,14,36.67,10.65,51.66,38.51,17.13,5.55,Intermedia,Centro,Línea B,Valle,2,1,Demanda moderada
+Las Aguas,15,35.03,8.01,43.4,38.72,18.39,2.36,Intermedia,Centro,Línea B,Valle,1,1,Demanda baja
+Las Aguas,16,36.09,8.84,46.62,39.92,20.02,6.17,Intermedia,Centro,Línea B,Valle,2,1,Demanda moderada
+Las Aguas,17,62.17,10.03,76.46,60.64,32.09,9.94,Intermedia,Centro,Línea B,Pico PM,3,0,Demanda alta
+Las Aguas,18,63.46,11.32,81.8,59.51,34.75,11.39,Intermedia,Centro,Línea B,Pico PM,3,0,Demanda alta
+Las Aguas,19,65.58,11.93,81.54,58.97,34.95,6.62,Intermedia,Centro,Línea B,Pico PM,3,0,Demanda alta
+Las Aguas,20,21.49,7.87,31.22,24.31,13.18,1.96,Intermedia,Centro,Línea B,Baja demanda,1,2,Demanda baja
+Las Aguas,21,21.86,8.6,30.12,24.21,12.89,-0.71,Intermedia,Centro,Línea B,Baja demanda,1,2,Demanda baja
+Las Aguas,22,20.07,7.17,31.48,24.15,12.52,3.38,Intermedia,Centro,Línea B,Baja demanda,1,2,Demanda baja
+Museo,5,19.27,5.26,25.8,24.85,11.08,0.27,Intermedia,Centro,Línea A,Baja demanda,1,2,Demanda baja
+Museo,6,54.19,11.32,66.3,58.49,24.88,6.75,Intermedia,Centro,Línea A,Pico AM,3,0,Demanda alta
+Museo,7,52.33,10.45,66.16,58.69,28.65,3.36,Intermedia,Centro,Línea A,Pico AM,3,0,Demanda alta
+Museo,8,51.4,7.52,61.06,60.1,28.51,5.42,Intermedia,Centro,Línea A,Pico AM,3,0,Demanda alta
+Museo,9,32.08,8.35,41.46,39.51,15.49,5.59,Intermedia,Centro,Línea A,Valle,1,1,Demanda baja
+Museo,10,29.11,9.07,39.26,39.82,17.39,2.06,Intermedia,Centro,Línea A,Valle,1,1,Demanda baja
+Museo,11,32.78,6.76,42.26,39.74,14.62,-1.71,Intermedia,Centro,Línea A,Valle,1,1,Demanda baja
+Museo,12,29.91,7.22,38.46,39.15,15.55,-1.67,Intermedia,Centro,Línea A,Valle,1,1,Demanda baja
+Museo,13,32.53,8.64,43.22,39.54,21.31,7.84,Intermedia,Centro,Línea A,Valle,2,1,Demanda moderada
+Museo,14,29.51,8.87,38.38,39.56,18.17,4.23,Intermedia,Centro,Línea A,Valle,1,1,Demanda baja
+Museo,15,28.8,6.13,35.78,40.08,17.26,2.55,Intermedia,Centro,Línea A,Valle,1,1,Demanda baja
+Museo,16,32.05,8.11,42.6,40.13,16.44,7.55,Intermedia,Centro,Línea A,Valle,2,1,Demanda moderada
+Museo,17,61.31,9.42,72.06,58.92,31.32,1.7,Intermedia,Centro,Línea A,Pico PM,3,0,Demanda alta
+Museo,18,59.83,13.52,70.3,59.18,32.62,12.32,Intermedia,Centro,Línea A,Pico PM,3,0,Demanda alta
+Museo,19,61.06,10.44,70.56,59.9,32.31,0.85,Intermedia,Centro,Línea A,Pico PM,3,0,Demanda alta
+Museo,20,21.57,10.02,30.28,24.85,9.39,4.44,Intermedia,Centro,Línea A,Baja demanda,1,2,Demanda baja
+Museo,21,19.95,6.75,28.9,24.85,8.58,5.21,Intermedia,Centro,Línea A,Baja demanda,1,2,Demanda baja
+Museo,22,18.91,8.77,30.36,24.77,8.97,6.33,Intermedia,Centro,Línea A,Baja demanda,1,2,Demanda baja
+Portal Norte,5,28.91,6.2,37.02,25.21,15.05,0.22,Portal,Norte,Línea A,Baja demanda,1,2,Demanda baja
+Portal Norte,6,104.17,19.49,117.18,58.28,57.37,9.31,Portal,Norte,Línea A,Pico AM,0,3,Pico crítico
+Portal Norte,7,98.28,10.62,113.12,60.79,56.81,16.22,Portal,Norte,Línea A,Pico AM,0,0,Pico crítico
+Portal Norte,8,107.58,20.08,121.72,57.56,51.19,14.42,Portal,Norte,Línea A,Pico AM,0,3,Pico crítico
+Portal Norte,9,50.41,11.33,61.78,39.23,31.02,8.0,Portal,Norte,Línea A,Valle,2,1,Demanda moderada
+Portal Norte,10,52.63,11.43,64.22,38.72,27.75,3.37,Portal,Norte,Línea A,Valle,2,1,Demanda moderada
+Portal Norte,11,49.93,9.53,57.04,39.85,28.89,11.66,Portal,Norte,Línea A,Valle,2,1,Demanda moderada
+Portal Norte,12,49.25,9.38,58.66,39.72,25.68,1.34,Portal,Norte,Línea A,Valle,2,1,Demanda moderada
+Portal Norte,13,49.7,9.11,61.72,40.18,25.45,10.02,Portal,Norte,Línea A,Valle,2,1,Demanda moderada
+Portal Norte,14,49.45,8.68,57.52,40.1,24.65,3.57,Portal,Norte,Línea A,Valle,2,1,Demanda moderada
+Portal Norte,15,53.64,13.22,74.44,37.49,26.45,9.44,Portal,Norte,Línea A,Valle,2,1,Demanda moderada
+Portal Norte,16,47.66,9.62,61.04,39.72,23.52,-0.97,Portal,Norte,Línea A,Valle,2,1,Demanda moderada
+Portal Norte,17,81.71,9.88,93.46,59.51,43.85,12.86,Portal,Norte,Línea A,Pico PM,3,0,Demanda alta
+Portal Norte,18,80.21,17.79,95.82,58.97,41.55,11.99,Portal,Norte,Línea A,Pico PM,0,0,Pico crítico
+Portal Norte,19,81.16,11.03,93.2,59.77,42.92,8.19,Portal,Norte,Línea A,Pico PM,3,0,Demanda alta
+Portal Norte,20,29.73,8.16,37.22,24.79,15.98,-0.43,Portal,Norte,Línea A,Baja demanda,1,2,Demanda baja
+Portal Norte,21,29.76,7.23,38.44,24.69,12.91,1.63,Portal,Norte,Línea A,Baja demanda,1,2,Demanda baja
+Portal Norte,22,30.66,9.25,41.72,24.95,16.79,4.17,Portal,Norte,Línea A,Baja demanda,1,2,Demanda baja
+Portal Sur,5,30.75,9.6,42.8,24.82,18.27,5.47,Portal,Sur,Línea D,Baja demanda,1,2,Demanda baja
+Portal Sur,6,105.06,21.34,118.4,58.87,53.15,13.93,Portal,Sur,Línea D,Pico AM,0,3,Pico crítico
+Portal Sur,7,101.84,12.05,114.72,59.62,62.05,15.43,Portal,Sur,Línea D,Pico AM,0,0,Pico crítico
+Portal Sur,8,107.04,22.4,123.6,57.46,50.33,16.17,Portal,Sur,Línea D,Pico AM,0,3,Pico crítico
+Portal Sur,9,53.43,12.57,63.22,38.49,26.13,1.38,Portal,Sur,Línea D,Valle,2,1,Demanda moderada
+Portal Sur,10,52.64,10.52,62.5,39.18,24.95,3.58,Portal,Sur,Línea D,Valle,2,1,Demanda moderada
+Portal Sur,11,50.08,8.79,59.86,40.38,25.78,6.11,Portal,Sur,Línea D,Valle,2,1,Demanda moderada
+Portal Sur,12,51.38,8.75,60.18,39.64,26.48,0.35,Portal,Sur,Línea D,Valle,2,1,Demanda moderada
+Portal Sur,13,48.74,8.42,59.02,40.21,25.3,0.16,Portal,Sur,Línea D,Valle,2,1,Demanda moderada
+Portal Sur,14,51.23,7.88,62.9,39.59,24.05,3.8,Portal,Sur,Línea D,Valle,2,1,Demanda moderada
+Portal Sur,15,53.71,10.28,62.22,39.1,24.32,2.74,Portal,Sur,Línea D,Valle,2,1,Demanda moderada
+Portal Sur,16,50.62,7.38,60.96,39.44,23.35,6.62,Portal,Sur,Línea D,Valle,2,1,Demanda moderada
+Portal Sur,17,84.37,21.05,99.5,57.44,40.42,18.9,Portal,Sur,Línea D,Pico PM,0,3,Pico crítico
+Portal Sur,18,79.49,11.51,89.92,59.03,45.78,6.95,Portal,Sur,Línea D,Pico PM,3,0,Demanda alta
+Portal Sur,19,78.63,12.13,92.44,59.08,39.52,13.32,Portal,Sur,Línea D,Pico PM,3,0,Demanda alta
+Portal Sur,20,27.89,7.18,36.64,24.85,18.29,3.94,Portal,Sur,Línea D,Baja demanda,1,2,Demanda baja
+Portal Sur,21,29.99,8.78,40.0,24.97,14.54,5.48,Portal,Sur,Línea D,Baja demanda,1,2,Demanda baja
+Portal Sur,22,31.93,7.54,40.34,24.77,16.0,1.88,Portal,Sur,Línea D,Baja demanda,1,2,Demanda baja
+Restrepo,5,24.06,8.18,29.64,24.59,12.02,1.56,Intermedia,Sur,Línea D,Baja demanda,1,2,Demanda baja
+Restrepo,6,63.7,8.75,72.46,59.08,32.97,4.62,Intermedia,Sur,Línea D,Pico AM,3,0,Demanda alta
+Restrepo,7,62.37,10.76,71.92,59.15,34.55,1.71,Intermedia,Sur,Línea D,Pico AM,3,0,Demanda alta
+Restrepo,8,64.4,10.66,74.28,57.92,33.11,5.1,Intermedia,Sur,Línea D,Pico AM,3,0,Demanda alta
+Restrepo,9,38.64,10.82,46.96,39.0,23.03,5.16,Intermedia,Sur,Línea D,Valle,2,1,Demanda moderada
+Restrepo,10,38.39,8.93,48.04,39.44,19.84,2.37,Intermedia,Sur,Línea D,Valle,2,1,Demanda moderada
+Restrepo,11,37.88,8.05,47.78,40.38,17.36,4.96,Intermedia,Sur,Línea D,Valle,2,1,Demanda moderada
+Restrepo,12,36.71,7.08,45.54,40.51,19.44,2.56,Intermedia,Sur,Línea D,Valle,1,1,Demanda baja
+Restrepo,13,39.89,10.43,49.42,38.95,18.94,4.92,Intermedia,Sur,Línea D,Valle,2,1,Demanda moderada
+Restrepo,14,37.83,8.37,46.42,39.74,21.45,1.88,Intermedia,Sur,Línea D,Valle,2,1,Demanda moderada
+Restrepo,15,37.15,6.47,45.02,39.97,19.74,2.9,Intermedia,Sur,Línea D,Valle,1,1,Demanda baja
+Restrepo,16,38.14,8.33,46.66,39.74,20.37,4.39,Intermedia,Sur,Línea D,Valle,2,1,Demanda moderada
+Restrepo,17,60.3,10.83,69.8,58.82,34.08,11.21,Intermedia,Sur,Línea D,Pico PM,3,0,Demanda alta
+Restrepo,18,60.06,9.92,69.98,59.97,33.41,10.21,Intermedia,Sur,Línea D,Pico PM,3,0,Demanda alta
+Restrepo,19,60.13,12.56,72.5,58.64,32.6,2.23,Intermedia,Sur,Línea D,Pico PM,3,0,Demanda alta
+Restrepo,20,23.87,8.6,33.16,24.56,14.61,3.57,Intermedia,Sur,Línea D,Baja demanda,1,2,Demanda baja
+Restrepo,21,25.32,7.94,33.74,24.62,11.74,0.71,Intermedia,Sur,Línea D,Baja demanda,1,2,Demanda baja
+Restrepo,22,21.16,8.94,31.34,24.9,11.4,3.96,Intermedia,Sur,Línea D,Baja demanda,1,2,Demanda baja
+Universidades,5,26.46,8.59,36.14,24.97,15.02,6.66,Intermedia,Centro,Línea B,Baja demanda,1,2,Demanda baja
+Universidades,6,77.81,18.5,95.5,57.08,37.13,9.14,Intermedia,Centro,Línea B,Pico AM,0,0,Pico crítico
+Universidades,7,74.77,12.46,81.72,59.26,37.79,5.46,Intermedia,Centro,Línea B,Pico AM,3,0,Demanda alta
+Universidades,8,77.49,15.46,91.0,57.64,43.43,7.18,Intermedia,Centro,Línea B,Pico AM,3,0,Demanda alta
+Universidades,9,43.18,9.08,55.16,39.97,23.01,6.48,Intermedia,Centro,Línea B,Valle,2,1,Demanda moderada
+Universidades,10,45.73,10.47,55.76,38.97,23.59,2.18,Intermedia,Centro,Línea B,Valle,2,1,Demanda moderada
+Universidades,11,44.92,11.96,56.3,39.1,25.05,3.83,Intermedia,Centro,Línea B,Valle,2,1,Demanda moderada
+Universidades,12,48.22,13.5,62.32,37.9,24.68,5.84,Intermedia,Centro,Línea B,Valle,2,1,Demanda moderada
+Universidades,13,43.55,10.07,55.16,39.36,23.75,3.44,Intermedia,Centro,Línea B,Valle,2,1,Demanda moderada
+Universidades,14,45.45,9.89,53.5,38.9,24.95,8.6,Intermedia,Centro,Línea B,Valle,2,1,Demanda moderada
+Universidades,15,46.14,10.6,58.18,38.64,25.55,9.6,Intermedia,Centro,Línea B,Valle,2,1,Demanda moderada
+Universidades,16,47.31,13.17,59.5,38.49,25.24,3.79,Intermedia,Centro,Línea B,Valle,2,1,Demanda moderada
+Universidades,17,84.49,15.31,100.52,58.18,47.59,-0.24,Intermedia,Centro,Línea B,Pico PM,3,0,Demanda alta
+Universidades,18,82.79,13.56,96.0,58.59,41.96,6.64,Intermedia,Centro,Línea B,Pico PM,3,0,Demanda alta
+Universidades,19,82.27,11.41,90.9,59.05,43.78,5.42,Intermedia,Centro,Línea B,Pico PM,3,0,Demanda alta
+Universidades,20,27.86,7.74,35.9,24.31,12.54,2.26,Intermedia,Centro,Línea B,Baja demanda,1,2,Demanda baja
+Universidades,21,26.27,8.09,33.8,24.46,13.19,7.59,Intermedia,Centro,Línea B,Baja demanda,1,2,Demanda baja
+Universidades,22,25.74,9.13,38.48,24.38,14.45,4.93,Intermedia,Centro,Línea B,Baja demanda,1,2,Demanda baja
