@@ -1,0 +1,265 @@
+|--- buses_por_hora <= 51.00
+|   |--- buses_por_hora <= 32.00
+|   |   |--- incidente_operacional <= 0.50
+|   |   |   |--- dia_semana_Domingo <= 0.50
+|   |   |   |   |--- tipo_estacion_Intermedia <= 0.50
+|   |   |   |   |   |--- buses_por_hora <= 21.00
+|   |   |   |   |   |   |--- buses_por_hora <= 14.50
+|   |   |   |   |   |   |   |--- truncated branch of depth 2
+|   |   |   |   |   |   |--- buses_por_hora >  14.50
+|   |   |   |   |   |   |   |--- class: Baja
+|   |   |   |   |   |--- buses_por_hora >  21.00
+|   |   |   |   |   |   |--- dia_semana_Lunes <= 0.50
+|   |   |   |   |   |   |   |--- truncated branch of depth 2
+|   |   |   |   |   |   |--- dia_semana_Lunes >  0.50
+|   |   |   |   |   |   |   |--- truncated branch of depth 2
+|   |   |   |   |--- tipo_estacion_Intermedia >  0.50
+|   |   |   |   |   |--- linea_principal_Línea A <= 0.50
+|   |   |   |   |   |   |--- evento_especial <= 0.50
+|   |   |   |   |   |   |   |--- truncated branch of depth 2
+|   |   |   |   |   |   |--- evento_especial >  0.50
+|   |   |   |   |   |   |   |--- truncated branch of depth 2
+|   |   |   |   |   |--- linea_principal_Línea A >  0.50
+|   |   |   |   |   |   |--- buses_por_hora <= 24.50
+|   |   |   |   |   |   |   |--- truncated branch of depth 2
+|   |   |   |   |   |   |--- buses_por_hora >  24.50
+|   |   |   |   |   |   |   |--- class: Baja
+|   |   |   |--- dia_semana_Domingo >  0.50
+|   |   |   |   |--- estacion_Centro <= 0.50
+|   |   |   |   |   |--- class: Baja
+|   |   |   |   |--- estacion_Centro >  0.50
+|   |   |   |   |   |--- hora <= 10.50
+|   |   |   |   |   |   |--- hora <= 9.50
+|   |   |   |   |   |   |   |--- class: Baja
+|   |   |   |   |   |   |--- hora >  9.50
+|   |   |   |   |   |   |   |--- truncated branch of depth 2
+|   |   |   |   |   |--- hora >  10.50
+|   |   |   |   |   |   |--- class: Baja
+|   |   |--- incidente_operacional >  0.50
+|   |   |   |--- buses_por_hora <= 20.00
+|   |   |   |   |--- dia_semana_Domingo <= 0.50
+|   |   |   |   |   |--- tipo_estacion_Intermedia <= 0.50
+|   |   |   |   |   |   |--- festivo <= 0.50
+|   |   |   |   |   |   |   |--- truncated branch of depth 2
+|   |   |   |   |   |   |--- festivo >  0.50
+|   |   |   |   |   |   |   |--- class: Baja
+|   |   |   |   |   |--- tipo_estacion_Intermedia >  0.50
+|   |   |   |   |   |   |--- buses_por_hora <= 11.50
+|   |   |   |   |   |   |   |--- class: Baja
+|   |   |   |   |   |   |--- buses_por_hora >  11.50
+|   |   |   |   |   |   |   |--- truncated branch of depth 2
+|   |   |   |   |--- dia_semana_Domingo >  0.50
+|   |   |   |   |   |--- estacion_Centro <= 0.50
+|   |   |   |   |   |   |--- evento_especial <= 0.50
+|   |   |   |   |   |   |   |--- class: Baja
+|   |   |   |   |   |   |--- evento_especial >  0.50
+|   |   |   |   |   |   |   |--- class: Media
+|   |   |   |   |   |--- estacion_Centro >  0.50
+|   |   |   |   |   |   |--- buses_por_hora <= 7.50
+|   |   |   |   |   |   |   |--- class: Media
+|   |   |   |   |   |   |--- buses_por_hora >  7.50
+|   |   |   |   |   |   |   |--- truncated branch of depth 2
+|   |   |   |--- buses_por_hora >  20.00
+|   |   |   |   |--- dia_semana_Domingo <= 0.50
+|   |   |   |   |   |--- tipo_estacion_Intermedia <= 0.50
+|   |   |   |   |   |   |--- buses_por_hora <= 25.50
+|   |   |   |   |   |   |   |--- truncated branch of depth 2
+|   |   |   |   |   |   |--- buses_por_hora >  25.50
+|   |   |   |   |   |   |   |--- truncated branch of depth 2
+|   |   |   |   |   |--- tipo_estacion_Intermedia >  0.50
+|   |   |   |   |   |   |--- estacion_Universidades <= 0.50
+|   |   |   |   |   |   |   |--- truncated branch of depth 2
+|   |   |   |   |   |   |--- estacion_Universidades >  0.50
+|   |   |   |   |   |   |   |--- truncated branch of depth 2
+|   |   |   |   |--- dia_semana_Domingo >  0.50
+|   |   |   |   |   |--- buses_por_hora <= 22.50
+|   |   |   |   |   |   |--- franja_horaria_Pico AM <= 0.50
+|   |   |   |   |   |   |   |--- class: Media
+|   |   |   |   |   |   |--- franja_horaria_Pico AM >  0.50
+|   |   |   |   |   |   |   |--- class: Alta
+|   |   |   |   |   |--- buses_por_hora >  22.50
+|   |   |   |   |   |   |--- estacion_Centro <= 0.50
+|   |   |   |   |   |   |   |--- truncated branch of depth 2
+|   |   |   |   |   |   |--- estacion_Centro >  0.50
+|   |   |   |   |   |   |   |--- truncated branch of depth 2
+|   |--- buses_por_hora >  32.00
+|   |   |--- tipo_estacion_Intermedia <= 0.50
+|   |   |   |--- dia_semana_Domingo <= 0.50
+|   |   |   |   |--- incidente_operacional <= 0.50
+|   |   |   |   |   |--- zona_Chapinero <= 0.50
+|   |   |   |   |   |   |--- es_fin_semana <= 0.50
+|   |   |   |   |   |   |   |--- truncated branch of depth 2
+|   |   |   |   |   |   |--- es_fin_semana >  0.50
+|   |   |   |   |   |   |   |--- truncated branch of depth 2
+|   |   |   |   |   |--- zona_Chapinero >  0.50
+|   |   |   |   |   |   |--- buses_por_hora <= 41.50
+|   |   |   |   |   |   |   |--- truncated branch of depth 2
+|   |   |   |   |   |   |--- buses_por_hora >  41.50
+|   |   |   |   |   |   |   |--- truncated branch of depth 2
+|   |   |   |   |--- incidente_operacional >  0.50
+|   |   |   |   |   |--- class: Alta
+|   |   |   |--- dia_semana_Domingo >  0.50
+|   |   |   |   |--- zona_Chapinero <= 0.50
+|   |   |   |   |   |--- franja_horaria_Pico PM <= 0.50
+|   |   |   |   |   |   |--- estacion_Centro <= 0.50
+|   |   |   |   |   |   |   |--- truncated branch of depth 2
+|   |   |   |   |   |   |--- estacion_Centro >  0.50
+|   |   |   |   |   |   |   |--- truncated branch of depth 2
+|   |   |   |   |   |--- franja_horaria_Pico PM >  0.50
+|   |   |   |   |   |   |--- evento_especial <= 0.50
+|   |   |   |   |   |   |   |--- truncated branch of depth 2
+|   |   |   |   |   |   |--- evento_especial >  0.50
+|   |   |   |   |   |   |   |--- class: Media
+|   |   |   |   |--- zona_Chapinero >  0.50
+|   |   |   |   |   |--- buses_por_hora <= 39.50
+|   |   |   |   |   |   |--- franja_horaria_Pico PM <= 0.50
+|   |   |   |   |   |   |   |--- truncated branch of depth 2
+|   |   |   |   |   |   |--- franja_horaria_Pico PM >  0.50
+|   |   |   |   |   |   |   |--- class: Baja
+|   |   |   |   |   |--- buses_por_hora >  39.50
+|   |   |   |   |   |   |--- clima_Lluvia <= 0.50
+|   |   |   |   |   |   |   |--- truncated branch of depth 2
+|   |   |   |   |   |   |--- clima_Lluvia >  0.50
+|   |   |   |   |   |   |   |--- truncated branch of depth 2
+|   |   |--- tipo_estacion_Intermedia >  0.50
+|   |   |   |--- incidente_operacional <= 0.50
+|   |   |   |   |--- dia_semana_Domingo <= 0.50
+|   |   |   |   |   |--- estacion_Universidades <= 0.50
+|   |   |   |   |   |   |--- estacion_Museo <= 0.50
+|   |   |   |   |   |   |   |--- truncated branch of depth 2
+|   |   |   |   |   |   |--- estacion_Museo >  0.50
+|   |   |   |   |   |   |   |--- truncated branch of depth 2
+|   |   |   |   |   |--- estacion_Universidades >  0.50
+|   |   |   |   |   |   |--- hora <= 16.50
+|   |   |   |   |   |   |   |--- truncated branch of depth 2
+|   |   |   |   |   |   |--- hora >  16.50
+|   |   |   |   |   |   |   |--- truncated branch of depth 2
+|   |   |   |   |--- dia_semana_Domingo >  0.50
+|   |   |   |   |   |--- estacion_Universidades <= 0.50
+|   |   |   |   |   |   |--- franja_horaria_Pico PM <= 0.50
+|   |   |   |   |   |   |   |--- class: Baja
+|   |   |   |   |   |   |--- franja_horaria_Pico PM >  0.50
+|   |   |   |   |   |   |   |--- truncated branch of depth 2
+|   |   |   |   |   |--- estacion_Universidades >  0.50
+|   |   |   |   |   |   |--- clima_Nublado <= 0.50
+|   |   |   |   |   |   |   |--- truncated branch of depth 2
+|   |   |   |   |   |   |--- clima_Nublado >  0.50
+|   |   |   |   |   |   |   |--- class: Baja
+|   |   |   |--- incidente_operacional >  0.50
+|   |   |   |   |--- class: Alta
+|--- buses_por_hora >  51.00
+|   |--- tipo_estacion_Intermedia <= 0.50
+|   |   |--- zona_Chapinero <= 0.50
+|   |   |   |--- franja_horaria_Pico AM <= 0.50
+|   |   |   |   |--- tipo_estacion_Intercambio <= 0.50
+|   |   |   |   |   |--- buses_por_hora <= 61.50
+|   |   |   |   |   |   |--- clima_Lluvia <= 0.50
+|   |   |   |   |   |   |   |--- truncated branch of depth 2
+|   |   |   |   |   |   |--- clima_Lluvia >  0.50
+|   |   |   |   |   |   |   |--- class: Alta
+|   |   |   |   |   |--- buses_por_hora >  61.50
+|   |   |   |   |   |   |--- clima_Lluvia <= 0.50
+|   |   |   |   |   |   |   |--- truncated branch of depth 2
+|   |   |   |   |   |   |--- clima_Lluvia >  0.50
+|   |   |   |   |   |   |   |--- class: Alta
+|   |   |   |   |--- tipo_estacion_Intercambio >  0.50
+|   |   |   |   |   |--- class: Alta
+|   |   |   |--- franja_horaria_Pico AM >  0.50
+|   |   |   |   |--- class: Alta
+|   |   |--- zona_Chapinero >  0.50
+|   |   |   |--- clima_Lluvia <= 0.50
+|   |   |   |   |--- buses_por_hora <= 61.50
+|   |   |   |   |   |--- clima_Soleado <= 0.50
+|   |   |   |   |   |   |--- hora <= 17.50
+|   |   |   |   |   |   |   |--- truncated branch of depth 2
+|   |   |   |   |   |   |--- hora >  17.50
+|   |   |   |   |   |   |   |--- class: Alta
+|   |   |   |   |   |--- clima_Soleado >  0.50
+|   |   |   |   |   |   |--- dia_semana_Miércoles <= 0.50
+|   |   |   |   |   |   |   |--- truncated branch of depth 2
+|   |   |   |   |   |   |--- dia_semana_Miércoles >  0.50
+|   |   |   |   |   |   |   |--- truncated branch of depth 2
+|   |   |   |   |--- buses_por_hora >  61.50
+|   |   |   |   |   |--- evento_especial <= 0.50
+|   |   |   |   |   |   |--- estacion_Calle 72 <= 0.50
+|   |   |   |   |   |   |   |--- truncated branch of depth 2
+|   |   |   |   |   |   |--- estacion_Calle 72 >  0.50
+|   |   |   |   |   |   |   |--- truncated branch of depth 2
+|   |   |   |   |   |--- evento_especial >  0.50
+|   |   |   |   |   |   |--- class: Alta
+|   |   |   |--- clima_Lluvia >  0.50
+|   |   |   |   |--- hora <= 18.50
+|   |   |   |   |   |--- class: Alta
+|   |   |   |   |--- hora >  18.50
+|   |   |   |   |   |--- dia_semana_Viernes <= 0.50
+|   |   |   |   |   |   |--- class: Alta
+|   |   |   |   |   |--- dia_semana_Viernes >  0.50
+|   |   |   |   |   |   |--- estacion_Calle 45 <= 0.50
+|   |   |   |   |   |   |   |--- class: Alta
+|   |   |   |   |   |   |--- estacion_Calle 45 >  0.50
+|   |   |   |   |   |   |   |--- truncated branch of depth 2
+|   |--- tipo_estacion_Intermedia >  0.50
+|   |   |--- estacion_Universidades <= 0.50
+|   |   |   |--- clima_Lluvia <= 0.50
+|   |   |   |   |--- zona_Chapinero <= 0.50
+|   |   |   |   |   |--- evento_especial <= 0.50
+|   |   |   |   |   |   |--- zona_Centro <= 0.50
+|   |   |   |   |   |   |   |--- truncated branch of depth 2
+|   |   |   |   |   |   |--- zona_Centro >  0.50
+|   |   |   |   |   |   |   |--- truncated branch of depth 2
+|   |   |   |   |   |--- evento_especial >  0.50
+|   |   |   |   |   |   |--- class: Alta
+|   |   |   |   |--- zona_Chapinero >  0.50
+|   |   |   |   |   |--- buses_por_hora <= 60.50
+|   |   |   |   |   |   |--- hora <= 18.50
+|   |   |   |   |   |   |   |--- truncated branch of depth 2
+|   |   |   |   |   |   |--- hora >  18.50
+|   |   |   |   |   |   |   |--- truncated branch of depth 2
+|   |   |   |   |   |--- buses_por_hora >  60.50
+|   |   |   |   |   |   |--- hora <= 17.50
+|   |   |   |   |   |   |   |--- truncated branch of depth 2
+|   |   |   |   |   |   |--- hora >  17.50
+|   |   |   |   |   |   |   |--- truncated branch of depth 2
+|   |   |   |--- clima_Lluvia >  0.50
+|   |   |   |   |--- estacion_Museo <= 0.50
+|   |   |   |   |   |--- buses_por_hora <= 59.50
+|   |   |   |   |   |   |--- estacion_Las Aguas <= 0.50
+|   |   |   |   |   |   |   |--- truncated branch of depth 2
+|   |   |   |   |   |   |--- estacion_Las Aguas >  0.50
+|   |   |   |   |   |   |   |--- truncated branch of depth 2
+|   |   |   |   |   |--- buses_por_hora >  59.50
+|   |   |   |   |   |   |--- linea_principal_Línea C <= 0.50
+|   |   |   |   |   |   |   |--- truncated branch of depth 2
+|   |   |   |   |   |   |--- linea_principal_Línea C >  0.50
+|   |   |   |   |   |   |   |--- truncated branch of depth 2
+|   |   |   |   |--- estacion_Museo >  0.50
+|   |   |   |   |   |--- evento_especial <= 0.50
+|   |   |   |   |   |   |--- dia_semana_Jueves <= 0.50
+|   |   |   |   |   |   |   |--- truncated branch of depth 2
+|   |   |   |   |   |   |--- dia_semana_Jueves >  0.50
+|   |   |   |   |   |   |   |--- class: Media
+|   |   |   |   |   |--- evento_especial >  0.50
+|   |   |   |   |   |   |--- class: Alta
+|   |   |--- estacion_Universidades >  0.50
+|   |   |   |--- clima_Lluvia <= 0.50
+|   |   |   |   |--- franja_horaria_Pico PM <= 0.50
+|   |   |   |   |   |--- buses_por_hora <= 60.50
+|   |   |   |   |   |   |--- buses_por_hora <= 57.50
+|   |   |   |   |   |   |   |--- class: Alta
+|   |   |   |   |   |   |--- buses_por_hora >  57.50
+|   |   |   |   |   |   |   |--- truncated branch of depth 2
+|   |   |   |   |   |--- buses_por_hora >  60.50
+|   |   |   |   |   |   |--- hora <= 7.50
+|   |   |   |   |   |   |   |--- truncated branch of depth 2
+|   |   |   |   |   |   |--- hora >  7.50
+|   |   |   |   |   |   |   |--- truncated branch of depth 2
+|   |   |   |   |--- franja_horaria_Pico PM >  0.50
+|   |   |   |   |   |--- buses_por_hora <= 60.50
+|   |   |   |   |   |   |--- class: Alta
+|   |   |   |   |   |--- buses_por_hora >  60.50
+|   |   |   |   |   |   |--- buses_por_hora <= 61.50
+|   |   |   |   |   |   |   |--- truncated branch of depth 2
+|   |   |   |   |   |   |--- buses_por_hora >  61.50
+|   |   |   |   |   |   |   |--- class: Alta
+|   |   |   |--- clima_Lluvia >  0.50
+|   |   |   |   |--- class: Alta

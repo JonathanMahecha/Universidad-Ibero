@@ -1,0 +1,28 @@
+{
+  "filas_entrenamiento": 8870,
+  "filas_prueba": 2218,
+  "mejores_hiperparametros": {
+    "modelo__max_depth": 8,
+    "modelo__min_samples_leaf": 1
+  },
+  "f1_macro_validacion_cruzada": 0.8396,
+  "comparacion_prueba": [
+    {
+      "modelo": "Línea base (clase más frecuente)",
+      "accuracy": 0.5212,
+      "f1_macro": 0.2284
+    },
+    {
+      "modelo": "Árbol de decisión (entropía)",
+      "accuracy": 0.8512,
+      "f1_macro": 0.8445
+    },
+    {
+      "modelo": "Random Forest",
+      "accuracy": 0.8255,
+      "f1_macro": 0.8178
+    }
+  ],
+  "profundidad_arbol": 8,
+  "hojas_arbol": 144
+}
