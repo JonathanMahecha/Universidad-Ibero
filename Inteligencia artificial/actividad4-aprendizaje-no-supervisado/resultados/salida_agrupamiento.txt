@@ -1,0 +1,61 @@
+============================================================
+1. PREPARACIÓN DE DATOS
+============================================================
+Registros originales (limpios): 11088
+Perfiles estación-hora: 198 (11 estaciones x 18 horas)
+                  mean    std    min     max
+ocupacion_habil  49.93  21.29  18.91  107.58
+ocupacion_finde  26.42  11.26   8.58   62.05
+variabilidad     10.21   3.33   5.26   26.94
+ocupacion_p90    60.73  22.81  25.80  123.60
+efecto_lluvia     5.48   4.25  -2.89   21.08
+buses_promedio   42.71  12.89  24.15   60.79
+
+============================================================
+2. SELECCIÓN DEL NÚMERO DE GRUPOS
+============================================================
+ k  inercia  silueta
+ 2   537.41   0.4890
+ 3   403.22   0.3385
+ 4   300.01   0.3557
+ 5   260.45   0.3335
+ 6   226.52   0.3199
+ 7   201.88   0.3283
+ 8   184.65   0.3306
+
+k elegido (máxima silueta con k >= 3): 4
+
+============================================================
+3. AGRUPAMIENTO
+============================================================
+K-means      -> silueta 0.3557, Davies-Bouldin 0.9872
+Jerárquico   -> silueta 0.3591, Davies-Bouldin 0.8743
+Concordancia entre ambos métodos (ARI): 0.7361
+
+============================================================
+4. INTERPRETACIÓN DE LOS GRUPOS
+============================================================
+                  registros  ocupacion_habil  ocupacion_finde  variabilidad  ocupacion_p90  efecto_lluvia  buses_promedio
+perfil                                                                                                                   
+Demanda baja             59             27.8             15.0           7.9           37.1            2.8            28.6
+Demanda moderada         73             45.5             23.9           9.8           56.2            5.5            39.4
+Demanda alta             51             69.1             36.9          11.1           80.1            6.3            59.2
+Pico crítico             15             93.5             48.2          18.2          109.7           13.2            58.3
+
+Franjas horarias por perfil:
+franja_horaria    Baja demanda  Pico AM  Pico PM  Valle
+perfil                                                 
+Demanda baja                44        0        0     15
+Demanda moderada             0        0        0     73
+Demanda alta                 0       24       27      0
+Pico crítico                 0        9        6      0
+
+Tipo de estación por perfil:
+tipo_estacion     Intercambio  Intermedia  Portal
+perfil                                           
+Demanda baja               12          39       8
+Demanda moderada           24          33      16
+Demanda alta               13          34       4
+Pico crítico                5           2       8
+
+Resultados guardados en 'resultados/' y perfiles en 'data/perfiles_estacion_hora.csv'.

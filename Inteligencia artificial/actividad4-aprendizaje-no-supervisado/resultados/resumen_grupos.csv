@@ -1,0 +1,5 @@
+perfil,registros,ocupacion_habil,ocupacion_finde,variabilidad,ocupacion_p90,efecto_lluvia,buses_promedio
+Demanda baja,59,27.8,15.0,7.9,37.1,2.8,28.6
+Demanda moderada,73,45.5,23.9,9.8,56.2,5.5,39.4
+Demanda alta,51,69.1,36.9,11.1,80.1,6.3,59.2
+Pico crítico,15,93.5,48.2,18.2,109.7,13.2,58.3

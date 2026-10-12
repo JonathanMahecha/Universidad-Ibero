@@ -1,0 +1,16 @@
+collecting ... collected 12 items
+
+tests/test_proyecto.py::test_ruta_existente PASSED                       [  8%]
+tests/test_proyecto.py::test_un_perfil_por_estacion_y_hora PASSED        [ 16%]
+tests/test_proyecto.py::test_variables_sin_nulos PASSED                  [ 25%]
+tests/test_proyecto.py::test_no_usa_etiquetas PASSED                     [ 33%]
+tests/test_proyecto.py::test_escalado_media_cero_desviacion_uno PASSED   [ 41%]
+tests/test_proyecto.py::test_seleccion_k_respeta_minimo PASSED           [ 50%]
+tests/test_proyecto.py::test_kmeans_reproducible PASSED                  [ 58%]
+tests/test_proyecto.py::test_calidad_minima_de_grupos PASSED             [ 66%]
+tests/test_proyecto.py::test_kmeans_y_jerarquico_concuerdan PASSED       [ 75%]
+tests/test_proyecto.py::test_perfiles_ordenados_por_ocupacion PASSED     [ 83%]
+tests/test_proyecto.py::test_hora_pico_vs_noche PASSED                   [ 91%]
+tests/test_proyecto.py::test_integracion_ruta_perfiles PASSED            [100%]
+
+============================== 12 passed in 2.42s ==============================

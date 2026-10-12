@@ -1,0 +1,51 @@
+{
+  "registros": 198,
+  "k": 4,
+  "seleccion_k": [
+    {
+      "k": 2,
+      "inercia": 537.41,
+      "silueta": 0.489
+    },
+    {
+      "k": 3,
+      "inercia": 403.22,
+      "silueta": 0.3385
+    },
+    {
+      "k": 4,
+      "inercia": 300.01,
+      "silueta": 0.3557
+    },
+    {
+      "k": 5,
+      "inercia": 260.45,
+      "silueta": 0.3335
+    },
+    {
+      "k": 6,
+      "inercia": 226.52,
+      "silueta": 0.3199
+    },
+    {
+      "k": 7,
+      "inercia": 201.88,
+      "silueta": 0.3283
+    },
+    {
+      "k": 8,
+      "inercia": 184.65,
+      "silueta": 0.3306
+    }
+  ],
+  "kmeans": {
+    "silueta": 0.3557,
+    "davies_bouldin": 0.9872,
+    "calinski_harabasz": 191.41
+  },
+  "jerarquico_ward": {
+    "silueta": 0.3591,
+    "davies_bouldin": 0.8743
+  },
+  "concordancia_kmeans_vs_jerarquico_ARI": 0.7361
+}
