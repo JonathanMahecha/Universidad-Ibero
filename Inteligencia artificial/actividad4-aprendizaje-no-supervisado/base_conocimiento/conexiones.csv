@@ -1,0 +1,13 @@
+origen,destino,linea
+Portal Norte,Calle 100,Línea A
+Calle 100,Calle 72,Línea A
+Calle 72,Calle 45,Línea A
+Calle 45,Museo,Línea A
+Museo,Centro,Línea B
+Centro,Las Aguas,Línea B
+Las Aguas,Universidades,Línea B
+Calle 72,Héroes,Línea C
+Héroes,Calle 45,Línea C
+Calle 45,Centro,Línea C
+Portal Sur,Restrepo,Línea D
+Restrepo,Centro,Línea D

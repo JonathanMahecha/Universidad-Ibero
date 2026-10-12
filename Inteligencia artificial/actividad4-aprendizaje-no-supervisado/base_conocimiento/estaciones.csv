@@ -1,0 +1,12 @@
+estacion,tipo_estacion,zona,capacidad_hora,demanda_base
+Portal Norte,Portal,Norte,9000,0.80
+Calle 100,Intermedia,Norte,5000,0.60
+Calle 72,Intercambio,Chapinero,6500,0.75
+Héroes,Intermedia,Chapinero,4500,0.65
+Calle 45,Intercambio,Chapinero,6500,0.70
+Museo,Intermedia,Centro,4000,0.50
+Centro,Intercambio,Centro,8000,0.85
+Las Aguas,Intermedia,Centro,4000,0.55
+Universidades,Intermedia,Centro,4500,0.70
+Restrepo,Intermedia,Sur,5000,0.60
+Portal Sur,Portal,Sur,9000,0.80
